@@ -65,11 +65,11 @@
         <mxCell id="yGDKy6ViSINgxDV6On1O-29" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.25;entryX=0;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;verticalAlign=middle;" edge="1" parent="1">
           <mxGeometry x="-0.8124" y="-11" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="540" />
-              <mxPoint x="250" y="380" />
+              <mxPoint x="239.5" y="550" />
+              <mxPoint x="239.5" y="390" />
             </Array>
-            <mxPoint x="365" y="540" as="sourcePoint" />
-            <mxPoint x="387" y="380" as="targetPoint" />
+            <mxPoint x="354.5" y="550" as="sourcePoint" />
+            <mxPoint x="376.5" y="390" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
