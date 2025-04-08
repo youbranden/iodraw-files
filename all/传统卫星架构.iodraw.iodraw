@@ -55,7 +55,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGDKy6ViSINgxDV6On1O-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yGDKy6ViSINgxDV6On1O-9">
+        <mxCell id="yGDKy6ViSINgxDV6On1O-26" value="R&lt;sub&gt;t+1&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yGDKy6ViSINgxDV6On1O-9">
           <mxGeometry x="-0.8159" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
