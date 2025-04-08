@@ -26,13 +26,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGDKy6ViSINgxDV6On1O-8" value="state Sₜ₊₁" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.22;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yGDKy6ViSINgxDV6On1O-4" target="yGDKy6ViSINgxDV6On1O-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yGDKy6ViSINgxDV6On1O-9" value="reward Rₜ₊₁" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=1;entryY=0.86;rounded=0;" edge="1" parent="1" source="yGDKy6ViSINgxDV6On1O-4" target="yGDKy6ViSINgxDV6On1O-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
