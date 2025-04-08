@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="370" width="257" height="244" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-2" value="Network Device 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="431" width="233" height="222" as="geometry" />
+          <mxGeometry x="460" y="370" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-3" value="Applications" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="339" y="60" width="148" height="48" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="296" y="158" width="233" height="66" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-5" value="OpenFlow API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="505" y="456" width="158" height="48" as="geometry" />
+          <mxGeometry x="495" y="395" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-6" value="Data Plane" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515" y="579" width="137" height="48" as="geometry" />
+          <mxGeometry x="505" y="518" width="137" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-7" value="OpenFlow API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="135" y="395" width="158" height="48" as="geometry" />
