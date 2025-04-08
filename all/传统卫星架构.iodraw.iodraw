@@ -7,7 +7,7 @@
         <mxCell id="yGDKy6ViSINgxDV6On1O-1" value="" style="strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="591" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="yGDKy6ViSINgxDV6On1O-2" value="state&#xa;Sₜ" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="yGDKy6ViSINgxDV6On1O-2" value="state&#xa;Sₜ" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;fontColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="170" y="410" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yGDKy6ViSINgxDV6On1O-3" value="Agent" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
