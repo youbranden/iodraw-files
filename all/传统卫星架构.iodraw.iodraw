@@ -44,12 +44,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yGDKy6ViSINgxDV6On1O-9" value="reward Rₜ₊₁" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.25;entryX=0;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yGDKy6ViSINgxDV6On1O-4" target="yGDKy6ViSINgxDV6On1O-3">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0565" y="-14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="530" />
               <mxPoint x="250" y="520" />
               <mxPoint x="240" y="380" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
