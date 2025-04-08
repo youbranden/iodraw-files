@@ -16,8 +16,8 @@
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-4" value="SDN Controller - Control Plane" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="296" y="158" width="233" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-5" value="OpenFlow API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="495" y="395" width="158" height="48" as="geometry" />
+        <mxCell id="1S3Nxxe12mjSSMqr_nbm-5" value="OpenFlow API" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="501" y="395" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-6" value="Data Plane" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="505" y="518" width="137" height="48" as="geometry" />
