@@ -22,7 +22,7 @@
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-6" value="Data Plane" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="505" y="518" width="137" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-7" value="OpenFlow API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1S3Nxxe12mjSSMqr_nbm-7" value="OpenFlow API" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="135" y="395" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-8" value="Data Plane" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -33,7 +33,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="1S3Nxxe12mjSSMqr_nbm-7" target="1S3Nxxe12mjSSMqr_nbm-8">
+        <mxCell id="1S3Nxxe12mjSSMqr_nbm-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.42;entryY=0;rounded=0;strokeColor=none;" edge="1" parent="1" source="1S3Nxxe12mjSSMqr_nbm-7" target="1S3Nxxe12mjSSMqr_nbm-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="214" y="505" />
