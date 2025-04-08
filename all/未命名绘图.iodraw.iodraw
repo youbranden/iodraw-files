@@ -59,14 +59,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-14" value="Data Plane" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.59;entryY=0;rounded=0;" edge="1" parent="1" source="1S3Nxxe12mjSSMqr_nbm-6" target="1S3Nxxe12mjSSMqr_nbm-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="540" y="519" />
-              <mxPoint x="324" y="555" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
