@@ -29,7 +29,9 @@
         <mxCell id="yGDKy6ViSINgxDV6On1O-8" value="state Sₜ₊₁" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.22;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yGDKy6ViSINgxDV6On1O-4" target="yGDKy6ViSINgxDV6On1O-3">
           <mxGeometry x="-0.643" y="49" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="430" />
+              <mxPoint x="290" y="531" />
+              <mxPoint x="240" y="560" />
+              <mxPoint x="220" y="410" />
               <mxPoint x="230" y="360" />
             </Array>
             <mxPoint as="offset" />
