@@ -13,7 +13,7 @@
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-3" value="Applications" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="339" y="60" width="148" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-4" value="SDN Controller - Control Plane" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1S3Nxxe12mjSSMqr_nbm-4" value="SDN Controller" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="296" y="158" width="233" height="102" as="geometry" />
         </mxCell>
         <mxCell id="1S3Nxxe12mjSSMqr_nbm-5" value="OpenFlow API" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;labelBackgroundColor=default;fontColor=#FF3333;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.716;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1S3Nxxe12mjSSMqr_nbm-5">
+        <mxCell id="1S3Nxxe12mjSSMqr_nbm-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.73;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1S3Nxxe12mjSSMqr_nbm-5" target="1S3Nxxe12mjSSMqr_nbm-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="301.98" as="sourcePoint" />
             <mxPoint x="472.828" y="223.99999999999997" as="targetPoint" />
@@ -57,6 +57,9 @@
               <mxPoint x="540" y="291.98" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1S3Nxxe12mjSSMqr_nbm-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Control Plane&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
