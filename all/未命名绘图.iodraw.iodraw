@@ -52,14 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1S3Nxxe12mjSSMqr_nbm-4" target="1S3Nxxe12mjSSMqr_nbm-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="264" y="261" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1S3Nxxe12mjSSMqr_nbm-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.324;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1S3Nxxe12mjSSMqr_nbm-4">
+        <mxCell id="1S3Nxxe12mjSSMqr_nbm-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;entryX=0.324;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" target="1S3Nxxe12mjSSMqr_nbm-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="390" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
