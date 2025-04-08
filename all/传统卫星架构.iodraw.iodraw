@@ -17,15 +17,7 @@
           <mxGeometry x="460" y="530" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yGDKy6ViSINgxDV6On1O-5" value="reward&#xa;Rₜ" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="306" y="476" width="110" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="yGDKy6ViSINgxDV6On1O-6" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="yGDKy6ViSINgxDV6On1O-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="276" y="359" />
-            </Array>
-            <mxPoint x="251" y="443" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="306" y="476" width="24" height="14" as="geometry" />
         </mxCell>
         <mxCell id="yGDKy6ViSINgxDV6On1O-7" value="action Aₜ" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.12;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="yGDKy6ViSINgxDV6On1O-3" target="yGDKy6ViSINgxDV6On1O-4">
           <mxGeometry relative="1" as="geometry">
@@ -45,14 +37,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="479" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yGDKy6ViSINgxDV6On1O-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.29;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGDKy6ViSINgxDV6On1O-2" target="yGDKy6ViSINgxDV6On1O-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="470" />
-              <mxPoint x="290" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
