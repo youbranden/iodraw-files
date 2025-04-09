@@ -13,6 +13,11 @@
         <mxCell id="_qu-G_R77CMbdViXy8yK-11" value="Model Structure" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="63.75" width="230" height="372" as="geometry" />
         </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-11" source="_qu-G_R77CMbdViXy8yK-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="116.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-11">
           <mxGeometry x="43" y="46" width="160" height="49" as="geometry" />
         </mxCell>
@@ -69,6 +74,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="550" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="240" as="sourcePoint" />
             <mxPoint x="550" y="190" as="targetPoint" />
