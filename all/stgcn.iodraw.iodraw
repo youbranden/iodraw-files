@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-13" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-27">
-          <mxGeometry y="73" width="130" height="30" as="geometry" />
+          <mxGeometry y="67" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-14" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-27">
           <mxGeometry y="110" width="130" height="30" as="geometry" />
