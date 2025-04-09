@@ -78,6 +78,12 @@
         <mxCell id="_qu-G_R77CMbdViXy8yK-28" value="Input Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="159.35" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="234" as="sourcePoint" />
+            <mxPoint x="389" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
