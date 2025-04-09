@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-5" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="264" y="20" width="329" height="372" as="geometry" />
+          <mxGeometry x="264" y="20" width="329" height="432" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-6" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-5">
           <mxGeometry x="43" y="46" width="259" height="49" as="geometry" />
@@ -40,8 +40,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-11" value="Model Structure" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="643" y="20" width="230" height="372" as="geometry" />
+        <mxCell id="_qu-G_R77CMbdViXy8yK-11" value="Model Structure" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-5">
+          <mxGeometry x="-144" y="60" width="230" height="372" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-11">
           <mxGeometry x="43" y="46" width="160" height="49" as="geometry" />
