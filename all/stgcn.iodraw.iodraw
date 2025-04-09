@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sHjusLyWcRTz27dgeBRk">
-    <mxGraphModel dx="655" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,25 +12,6 @@
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-11" value="Model Structure" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="63.75" width="230" height="372" as="geometry" />
-        </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-11">
-          <mxGeometry x="43" y="46" width="160" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-13" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-11">
-          <mxGeometry x="43" y="169" width="160" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-14" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-11">
-          <mxGeometry x="46" y="293" width="154" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-11" source="_qu-G_R77CMbdViXy8yK-12" target="_qu-G_R77CMbdViXy8yK-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-11" source="_qu-G_R77CMbdViXy8yK-13" target="_qu-G_R77CMbdViXy8yK-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="672.4471111111111" y="179.9970487483531" width="55.11111111111111" height="37.44400527009223" as="geometry" />
@@ -66,6 +47,25 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="240" as="sourcePoint" />
             <mxPoint x="550" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-12" target="_qu-G_R77CMbdViXy8yK-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-13" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="633" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-14" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="233" y="757" width="154" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-13" target="_qu-G_R77CMbdViXy8yK-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
