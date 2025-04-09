@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_qu-G_R77CMbdViXy8yK-1" value="Temporal Gated-Conv" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="690" y="120" width="160" height="190" as="geometry" />
+          <mxGeometry x="690" y="110" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-5" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="350" y="33.75" width="329" height="432" as="geometry" />
