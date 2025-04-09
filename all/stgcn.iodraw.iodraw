@@ -60,7 +60,7 @@
         <mxCell id="_qu-G_R77CMbdViXy8yK-13" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="262.35" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-14" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-14" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="314.35" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-13" target="_qu-G_R77CMbdViXy8yK-14">
@@ -75,7 +75,7 @@
             <mxPoint x="244.92" y="209.35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-28" value="Input Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-28" value="Input Layer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="159.35" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="_qu-G_R77CMbdViXy8yK-5">
