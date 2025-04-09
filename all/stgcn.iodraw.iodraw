@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-8" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-21">
-          <mxGeometry x="50" y="247" width="200" height="49" as="geometry" />
+          <mxGeometry x="50" y="205" width="200" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
