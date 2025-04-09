@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_qu-G_R77CMbdViXy8yK-1" value="Temporal Gated-Conv" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="700" y="10" width="160" height="379.5" as="geometry" />
+          <mxGeometry x="700" y="10" width="160" height="320" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-1">
-          <mxGeometry x="52.447111111111106" y="73.75" width="55.11111111111111" height="49" as="geometry" />
+          <mxGeometry x="52.447111111111106" y="62.18708827404479" width="55.11111111111111" height="41.31752305665349" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-3" value="GLU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-1">
-          <mxGeometry x="60.00266666666666" y="196.75" width="39.55555555555556" height="49" as="geometry" />
+          <mxGeometry x="60.00266666666666" y="165.90250329380763" width="39.55555555555556" height="41.31752305665349" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-1" source="_qu-G_R77CMbdViXy8yK-2" target="_qu-G_R77CMbdViXy8yK-3">
           <mxGeometry relative="1" as="geometry">
