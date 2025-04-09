@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sHjusLyWcRTz27dgeBRk">
-    <mxGraphModel dx="550" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1966" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="700" y="154.75" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-5" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="350" y="33.75" width="329" height="432" as="geometry" />
+          <mxGeometry x="410" y="50" width="160" height="432" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-11" value="Model Structure" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="63.75" width="230" height="372" as="geometry" />
@@ -43,24 +43,27 @@
         <mxCell id="_qu-G_R77CMbdViXy8yK-3" value="GLU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="760.0026666666666" y="278.7391436100131" width="39.55555555555556" height="37.44400527009223" as="geometry" />
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-6" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="393" y="585" width="259" height="49" as="geometry" />
+        <mxCell id="_qu-G_R77CMbdViXy8yK-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="393" y="585" width="259" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-6" target="_qu-G_R77CMbdViXy8yK-7">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-6" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-21">
+          <mxGeometry width="259" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-21" source="_qu-G_R77CMbdViXy8yK-6" target="_qu-G_R77CMbdViXy8yK-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-7" value="Spatial Graph-Conv, C=16" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="402" y="708" width="241" height="49" as="geometry" />
+        <mxCell id="_qu-G_R77CMbdViXy8yK-7" value="Spatial Graph-Conv, C=16" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-21">
+          <mxGeometry x="9" y="123" width="241" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-7" target="_qu-G_R77CMbdViXy8yK-8">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-21" source="_qu-G_R77CMbdViXy8yK-7" target="_qu-G_R77CMbdViXy8yK-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-8" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="393" y="832" width="259" height="49" as="geometry" />
+        <mxCell id="_qu-G_R77CMbdViXy8yK-8" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-21">
+          <mxGeometry y="247" width="259" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
