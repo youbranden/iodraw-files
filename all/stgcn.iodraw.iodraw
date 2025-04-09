@@ -8,7 +8,7 @@
           <mxGeometry x="700" y="154.75" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-5" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="350" y="33.75" width="329" height="432" as="geometry" />
+          <mxGeometry x="360" y="33.75" width="329" height="432" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-6" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-5">
           <mxGeometry x="43" y="46" width="259" height="49" as="geometry" />
