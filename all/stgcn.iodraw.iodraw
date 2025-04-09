@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-28" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-27">
-          <mxGeometry x="30" y="20" width="130" height="30" as="geometry" />
+          <mxGeometry x="30" y="10" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-30" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-27">
           <mxGeometry x="30" y="-10" width="130" height="30" as="geometry" />
