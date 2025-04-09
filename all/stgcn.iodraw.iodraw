@@ -8,10 +8,10 @@
           <mxGeometry x="720" y="56.25" width="200" height="379.5" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-1">
-          <mxGeometry x="23.88888888888889" y="46" width="68.88888888888889" height="49" as="geometry" />
+          <mxGeometry x="65.55888888888889" y="73.75" width="68.88888888888889" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-3" value="GLU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-1">
-          <mxGeometry x="33.333333333333336" y="169" width="49.44444444444445" height="49" as="geometry" />
+          <mxGeometry x="75.00333333333333" y="196.75" width="49.44444444444445" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-1" source="_qu-G_R77CMbdViXy8yK-2" target="_qu-G_R77CMbdViXy8yK-3">
           <mxGeometry relative="1" as="geometry">
