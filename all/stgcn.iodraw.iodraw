@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="300.75" width="130" height="30" as="geometry" />
+          <mxGeometry x="170" y="156.22" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-12" target="_qu-G_R77CMbdViXy8yK-13">
           <mxGeometry relative="1" as="geometry">
@@ -58,10 +58,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-13" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="353.75" width="130" height="30" as="geometry" />
+          <mxGeometry x="170" y="209.22" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-14" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="405.75" width="130" height="30" as="geometry" />
+          <mxGeometry x="170" y="261.22" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-13" target="_qu-G_R77CMbdViXy8yK-14">
           <mxGeometry relative="1" as="geometry">
@@ -71,12 +71,12 @@
         <mxCell id="_qu-G_R77CMbdViXy8yK-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.498;exitY=1.02;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="234.92" y="277.75" as="sourcePoint" />
-            <mxPoint x="234.92" y="300.75" as="targetPoint" />
+            <mxPoint x="234.92" y="133.22" as="sourcePoint" />
+            <mxPoint x="234.92" y="156.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-28" value="Input Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250.75" width="130" height="30" as="geometry" />
+          <mxGeometry x="170" y="106.22" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
