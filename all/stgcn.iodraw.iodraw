@@ -75,7 +75,7 @@
             <mxPoint x="204.92" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-28" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-28" value="Input Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="500" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
