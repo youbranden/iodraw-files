@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="520" width="130" height="140" as="geometry" />
+          <mxGeometry x="120" y="460" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-27">
           <mxGeometry y="37" width="130" height="30" as="geometry" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-13" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-27">
-          <mxGeometry y="67" width="130" height="30" as="geometry" />
+          <mxGeometry y="73" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-14" value="Output Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-27">
           <mxGeometry y="110" width="130" height="30" as="geometry" />
