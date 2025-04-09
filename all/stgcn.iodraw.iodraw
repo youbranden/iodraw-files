@@ -7,17 +7,6 @@
         <mxCell id="_qu-G_R77CMbdViXy8yK-1" value="Temporal Gated-Conv" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="700" y="30" width="160" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-1">
-          <mxGeometry x="52.447111111111106" y="56.357048748353094" width="55.11111111111111" height="37.44400527009223" as="geometry" />
-        </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-3" value="GLU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-1">
-          <mxGeometry x="60.00266666666666" y="150.34914361001316" width="39.55555555555556" height="37.44400527009223" as="geometry" />
-        </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-1" source="_qu-G_R77CMbdViXy8yK-2" target="_qu-G_R77CMbdViXy8yK-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-5" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="350" y="33.75" width="329" height="432" as="geometry" />
         </mxCell>
@@ -61,6 +50,17 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="752.4471111111111" y="329.9970487483531" width="55.11111111111111" height="37.44400527009223" as="geometry" />
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-2" target="_qu-G_R77CMbdViXy8yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qu-G_R77CMbdViXy8yK-3" value="GLU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760.0026666666666" y="423.9891436100131" width="39.55555555555556" height="37.44400527009223" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
