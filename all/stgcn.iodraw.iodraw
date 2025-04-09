@@ -40,7 +40,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-8" value="Temporal Gated-Conv, C=64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-8" value="Temporal Gated-Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="378.5" y="305" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-12">
