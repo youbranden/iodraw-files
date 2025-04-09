@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_qu-G_R77CMbdViXy8yK-1" value="Temporal Gated-Conv" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="690" y="110" width="160" height="190" as="geometry" />
+          <mxGeometry x="700" y="154.75" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-5" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="350" y="33.75" width="329" height="432" as="geometry" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="742.4471111111111" y="139.9970487483531" width="55.11111111111111" height="37.44400527009223" as="geometry" />
+          <mxGeometry x="752.4471111111111" y="184.7470487483531" width="55.11111111111111" height="37.44400527009223" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-2" target="_qu-G_R77CMbdViXy8yK-3">
           <mxGeometry relative="1" as="geometry">
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-3" value="GLU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750.0026666666666" y="233.98914361001312" width="39.55555555555556" height="37.44400527009223" as="geometry" />
+          <mxGeometry x="760.0026666666666" y="278.7391436100131" width="39.55555555555556" height="37.44400527009223" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
