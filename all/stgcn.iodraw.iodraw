@@ -49,7 +49,7 @@
             <mxPoint x="370" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-12" value="ST-Conv Block" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="209.35" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-12" target="_qu-G_R77CMbdViXy8yK-13">
