@@ -11,7 +11,7 @@
           <mxGeometry x="370" y="120" width="170" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="612.4471111111111" y="179.9970487483531" width="55.11111111111111" height="37.44400527009223" as="geometry" />
+          <mxGeometry x="597.45" y="183.78" width="55.11" height="37.44" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_qu-G_R77CMbdViXy8yK-2" target="_qu-G_R77CMbdViXy8yK-3">
           <mxGeometry relative="1" as="geometry">
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-3" value="GLU" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="620.0026666666666" y="273.9891436100131" width="39.55555555555556" height="37.44400527009223" as="geometry" />
+          <mxGeometry x="605.0026666666666" y="277.7691436100131" width="39.55555555555556" height="37.44400527009223" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-6" value="Temporal Gated-Conv" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="378.5" y="150" width="151.5" height="49" as="geometry" />
