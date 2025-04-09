@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_qu-G_R77CMbdViXy8yK-1" value="Temporal Gated-Conv" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="710" y="56.25" width="200" height="379.5" as="geometry" />
+          <mxGeometry x="720" y="56.25" width="200" height="379.5" as="geometry" />
         </mxCell>
         <mxCell id="_qu-G_R77CMbdViXy8yK-2" value="1-D Conv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_qu-G_R77CMbdViXy8yK-1">
           <mxGeometry x="23.88888888888889" y="46" width="68.88888888888889" height="49" as="geometry" />
