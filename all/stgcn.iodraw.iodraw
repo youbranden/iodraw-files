@@ -71,7 +71,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qu-G_R77CMbdViXy8yK-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-27">
+        <mxCell id="_qu-G_R77CMbdViXy8yK-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.502;exitY=1.028;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_qu-G_R77CMbdViXy8yK-27" source="_qu-G_R77CMbdViXy8yK-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="94.91999999999999" y="47" as="sourcePoint" />
